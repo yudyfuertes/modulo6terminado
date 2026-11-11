@@ -1,0 +1,1 @@
+{"columns": ["Age", "SibSp", "Parch", "Fare", "Pclass", "Sex", "Embarked"], "data": [[19.0, 1, 0, 53.1, 1, "male", "S"], [NaN, 0, 0, 8.05, 3, "male", "S"], [NaN, 0, 0, 7.8792, 3, "female", "Q"]]}
